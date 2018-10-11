@@ -15,4 +15,4 @@ Running:
 Move the jar to the gateway docker.
 There are some prerequisite though.
 
-java -jar eplsilon-dashboard(version).jar
+java -jar epsilon-dashboard(version).jar
